@@ -1,0 +1,13 @@
+{
+  "name": "social-survival",
+  "owner": {
+    "name": "yangben2019"
+  },
+  "plugins": [
+    {
+      "name": "social-survival",
+      "source": "./",
+      "description": "Decode Chinese group chats and workplace Moments — the groups you cannot leave, and the posts you cannot ignore."
+    }
+  ]
+}
