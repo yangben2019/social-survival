@@ -9,6 +9,12 @@ description: Decide whether and how to react to a manager's or colleague's WeCha
 
 A WeChat Moments post from someone with power over you is a small, low-stakes social test that people get wrong in both directions — ignoring reads as aloof, over-engaging reads as trying too hard. The right move depends almost entirely on what kind of post it is.
 
+## 语言 Language
+
+用用户提问的语言解释。但**评论/话术保持中文**——那是要发到朋友圈里的，翻成英文就无法使用。
+
+Explain in the user's language, but keep the comment drafts in Chinese: they are posted to WeChat Moments and lose their meaning if translated.
+
 ## 第一步：判断这条是什么性质
 
 先分类，再决定动作。分类错了，后面全错。

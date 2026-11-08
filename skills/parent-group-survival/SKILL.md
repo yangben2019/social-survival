@@ -9,6 +9,12 @@ description: Decode and answer messages in Chinese group chats where leaving is 
 
 Some groups you cannot leave. The goal is not to win the conversation; it is to stay in it without losing face and without committing to things you cannot deliver.
 
+## 语言 Language
+
+用用户提问的语言解释。但**回复话术本身必须是中文**——这是要直接粘进微信群发出去的，翻成英文就废了。即使用户用英文提问，三档回复也保持中文。
+
+Explain in the user's language, but keep the reply drafts in Chinese: they are meant to be pasted into the group chat, and translating them makes them unusable. Chinese source phrases should be quoted, not paraphrased away.
+
 ## 第一步：先判断这是什么群
 
 同一个群里，不同消息的性质完全不同。先看群的整体气质：
