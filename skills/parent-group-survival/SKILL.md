@@ -11,9 +11,9 @@ Some groups you cannot leave. The goal is not to win the conversation; it is to 
 
 ## 语言 Language
 
-用用户提问的语言解释。但**回复话术本身必须是中文**——这是要直接粘进微信群发出去的，翻成英文就废了。即使用户用英文提问，三档回复也保持中文。
+用用户提问的语言解释，**小标题也一起翻译**，不要一半中文一半英文。但**回复话术本身必须是中文**——这是要直接粘进微信群发出去的，翻成英文就废了。即使用户用英文提问，三档回复也保持中文。
 
-Explain in the user's language, but keep the reply drafts in Chinese: they are meant to be pasted into the group chat, and translating them makes them unusable. Chinese source phrases should be quoted, not paraphrased away.
+Explain in the user's language, including the section headings, but keep the reply drafts in Chinese: they are meant to be pasted into the group chat, and translating them makes them unusable. Chinese source phrases should be quoted, not paraphrased away.
 
 ## 第一步：先判断这是什么群
 

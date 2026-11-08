@@ -11,9 +11,9 @@ A WeChat Moments post from someone with power over you is a small, low-stakes so
 
 ## 语言 Language
 
-用用户提问的语言解释。但**评论/话术保持中文**——那是要发到朋友圈里的，翻成英文就无法使用。
+用用户提问的语言解释，**小标题也一起翻译**，不要一半中文一半英文。但**评论/话术保持中文**——那是要发到朋友圈里的，翻成英文就无法使用。
 
-Explain in the user's language, but keep the comment drafts in Chinese: they are posted to WeChat Moments and lose their meaning if translated.
+Explain in the user's language, including the section headings, but keep the comment drafts in Chinese: they are posted to WeChat Moments and lose their meaning if translated.
 
 ## 第一步：判断这条是什么性质
 
