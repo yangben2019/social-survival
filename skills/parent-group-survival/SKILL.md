@@ -1,6 +1,6 @@
 ---
 name: parent-group-survival
-description: Decode and answer messages in Chinese group chats where leaving is not an option — parent groups (家长群), class groups (班级群), homeowner groups (业主群), alumni groups. Classifies the group's social type, translates the subtext, and gives three tiers of reply (minimum / safe / high-EQ), plus clear rules for when saying nothing is the correct move. Use when the user mentions 家长群, 班级群, 业主群, 群消息怎么回, a WeChat group message they must answer, 发错群了, or asks how to handle a group chat without losing face.
+description: Decode and answer messages in group chats where leaving is not an option — parent groups, class groups, homeowner groups, alumni groups. Classifies the group's social type, translates the subtext, and gives three tiers of reply (minimum / safe / high-EQ), plus clear rules for when saying nothing is the correct move. Use when the user pastes a group-chat message they must answer, asks how to handle a WeChat group without losing face, or needs to recover from sending something to the wrong group.
 ---
 
 # Parent Group Survival 家长群生存

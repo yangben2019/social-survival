@@ -1,6 +1,6 @@
 ---
 name: boss-moments-like
-description: Decide whether and how to react to a manager's or colleague's WeChat Moments (朋友圈) post — read the intent behind it, choose like / no-like / comment, and draft three tiers of comment from minimal to relationship-building. Use when the user asks 领导发朋友圈我要不要点赞, whether to like a boss's post, what to comment on a work contact's post, 朋友圈怎么评论, or wants help with workplace social-media etiquette where silence and over-participation are both risky.
+description: Decide whether and how to react to a manager's or colleague's WeChat Moments post — read the intent behind it, choose like / no-like / comment, and draft three tiers of comment from minimal to relationship-building. Use when the user asks whether to like a boss's post, what to comment on a work contact's post, or wants help with workplace social-media etiquette where silence and over-participation are both risky.
 ---
 
 # Boss Moments Like 朋友圈点赞学
